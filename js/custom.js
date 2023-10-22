@@ -14,9 +14,9 @@ $(document).ready(function() {
     $('body').vegas({
         slides: [
             { src: 'images/slide1.jpg' },
-            { src: 'images/slide2.jpg' },
             { src: 'images/slide3.jpg' },
-            { src: 'images/slide4.jpg' }
+            //{ src: 'images/slide3.jpg' },
+            { src: 'images/slide2.jpg' }
         ],
         timer: false,
         transition: [ 'zoomOut', ]
