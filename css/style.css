@@ -1,14 +1,6 @@
-/*
-
-Comila Template
-
-http://www.templatemo.com/tm-490-comila
-
-*/
-
 body
 	{
-		background: #ffffff;
+		background: #efefef;
    font-family: 'Rajdhani', sans-serif;
     font-weight: 400;
 	}
@@ -37,7 +29,7 @@ h1 {
 }
 
 h2 {
-  color: #ffffff;
+  color: #efefef;
   padding-bottom: 10px;
 }
 
@@ -53,14 +45,14 @@ p {
 }
 
 strong {
-  color: #4ade3e;
+  color: #127127;
   font-weight: 700;
 }
 
 #about,
 #feature,
 #contact {
-  background: #ffffff;
+  background: #efefef;
 }
 
 #about,
@@ -97,7 +89,7 @@ footer {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #ffffff;
+  background: none repeat scroll 0 0 #efefef;
 }
 
 .sk-circle {
@@ -236,7 +228,7 @@ footer {
         align-items: center;
   text-align: center;
   height: 100vh;
-  color: #ffffff;
+  color: #efefef;
 }
 
 #home .home-thumb {
@@ -245,9 +237,9 @@ footer {
 
 #home .btn {
     background: transparent;
-    border: 3px solid #ffffff;
+    border: 3px solid #efefef;
     border-radius: 0px;
-    color: #ffffff;
+    color: #efefef;
     font-weight: 700;
     letter-spacing: 1px;
     padding: 14px 36px;
@@ -258,13 +250,13 @@ footer {
 }
 
 #home .btn:hover {
-  background: #4ade3e;
-  color: #ffffff;
+  background: #f1c11a;
+  color: #efefef;
   border-color: transparent;
 }
 
 #home .btn-success {
-    background: #ffffff;
+    background: #efefef;
     color: #242424;
     border-color: transparent;
 }
@@ -282,11 +274,11 @@ footer {
 
 /* feature section */
 #feature {
-  background: #4ade3e;
+  background: 	#4ade3e;
 }
 
 #feature .icon {
-  color: #ffffff;
+  color: #efefef;
   font-size: 42px;
   padding-right: 14px;
 }
@@ -297,9 +289,9 @@ footer {
 
 #feature .btn {
     background: transparent;
-    border: 3px solid #ffffff;
+    border: 3px solid #efefef;
     border-radius: 0px;
-    color: #ffffff;
+    color: #efefef;
     font-size: 18px;
     font-weight: 700;
     letter-spacing: 1px;
@@ -311,7 +303,7 @@ footer {
 }
 
 #feature .btn:hover {
-  background: #ffffff;
+  background: #efefef;
   color: #333;
   border-color: transparent;
 }
@@ -338,7 +330,7 @@ footer {
 #contact input[type='submit'] {
   background: #242424;
   border: none;
-  color: #ffffff;
+  color: #efefef;
   font-size: 15px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -347,7 +339,7 @@ footer {
 }
 
 #contact input[type='submit']:hover {
-  background: #4ade3e;
+  background: #f1c11a;
 }
 
 
@@ -377,8 +369,8 @@ footer a:hover {
   bottom: 104px;
 }
 .svgcolor-light > path {
-  fill: white;
-  stroke: white;
+  fill: #efefef;
+  stroke: #efefef;
   stroke-width: 0;
 }
 
@@ -402,7 +394,7 @@ footer a:hover {
 }
 
 .modal-dialog .close {
-  color: #4ade3e;
+  color: #f1c11a;
   font-size: 40px;
   font-weight: 300;
   text-shadow: none;
@@ -410,7 +402,7 @@ footer a:hover {
   position: absolute;
   top: 40px;
   right: 40px;
-  border: 2px solid #ffffff;
+  border: 2px solid #efefef;
   border-radius: 100px;
   width: 36px;
   height: 36px;
@@ -439,15 +431,15 @@ footer a:hover {
 }
 
 .modal-dialog form input[type="submit"] {
-  background: #ffffff;
+  background: #efefef;
   color: #242424;
   text-transform: uppercase;
   margin-top: 30px;
 }
 .modal-dialog form input[type="submit"]:hover {
-  background: #4ade3e;
+  background: #f1c11a;
   border-color: transparent;
-  color: #ffffff;
+  color: #efefef;
 }
 
 /* Back top */
@@ -468,8 +460,8 @@ footer a:hover {
 }
 
 .go-top:hover {
-    background: #4ade3e;
-    color: #ffffff;
+    background: #f1c11a;
+    color: #efefef;
 }
 
 
@@ -499,7 +491,7 @@ footer a:hover {
 }
 
 .social-icon li a:hover {
-  background-color: #ffffff;
+  background-color: #efefef;
   color: #111112;
 }
 
