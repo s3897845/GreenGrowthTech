@@ -310,6 +310,31 @@ footer {
 
 /* software section  */
 
+/* about section */
+#about h3 {
+    margin-top: 0px;
+}
+
+#about .about-thumb {
+  padding-top: 10px;
+}
+
+
+/* feature section */
+#feature {
+  background: 	#4ade3e;
+}
+
+#feature .icon {
+  color: #efefef;
+  font-size: 42px;
+  padding-right: 14px;
+}
+
+#feature p {
+  color: #333;
+}
+
 #software .btn {
   background: transparent;
   border: 3px solid #efefef;
