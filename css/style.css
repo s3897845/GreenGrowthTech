@@ -308,7 +308,28 @@ footer {
   border-color: transparent;
 }
 
+/* software section  */
 
+#software .btn {
+  background: transparent;
+  border: 3px solid #efefef;
+  border-radius: 0px;
+  color: #efefef;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 14px 36px;
+  margin-top: 62px;
+  margin-right: 16px;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+#software .btn:hover {
+  background: #efefef;
+  color: #333;
+  border-color: transparent;
+}
 
 /* contact section  */
 #contact .form-control {
