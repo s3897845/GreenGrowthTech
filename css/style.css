@@ -261,6 +261,38 @@ footer {
     border-color: transparent;
 }
 
+/* 3D section */
+
+#threeD {
+  background-color: #efefef; /* Background color for the section */
+  padding: 60px; /* Add some padding to the section for spacing */
+  text-align: center; /* Center the content */
+
+  /* Style the text content within the section */
+  color: #333; /* Text color */
+}
+
+#threeD h1 {
+  font-size: 36px; /* Heading font size */
+  margin-bottom: 20px; /* Space between heading and other content */
+}
+
+#threeD h3 {
+  font-size: 24px; /* Subheading font size */
+  margin-bottom: 20px; /* Space between subheading and buttons */
+}
+
+#threeD .btn {
+  font-size: 18px; /* Button font size */
+  margin-right: 10px; /* Space between buttons */
+}
+
+/* Style the model viewer */
+model-viewer {
+  width: 100%; /* Make the model viewer responsive to the container */
+  height: 400px; /* Adjust the height as needed */
+}
+
 
 /* about section */
 #about h3 {
@@ -600,5 +632,43 @@ footer a:hover {
   height: 25px;
   line-height: 25px;
 }
+	 #threeD {
+    height: 600px;
+    width: 600px;
+    position: absolute;
+    top: calc(50% - 250px);
+    right: 7%;
+  }
+
+/* This styles the 3D object inserted in the aside container */
+  #threeD model-viewer {
+    height: 800px;
+    width: 1500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: none;
+  }
+
+}
+/* This styles the aside container */
+#aSide {
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  top: calc(145% - 250px);
+  right: 70%;
+}
+
+/* This styles the 3D object inserted in the aside container */
+#aSide model-viewer {
+  height: 500px;
+  width: 500px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: none;
+}
+
 
 }
