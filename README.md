@@ -2,7 +2,7 @@
 
 #Links
 Git Repo: https://github.com/s3897845/GreenGrowthTech/tree/main
-Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/
+                     Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/
 
 ### How to Run (Github Pages):
 
@@ -17,7 +17,7 @@ Currently running on github pages therefore simply follow this link to view webs
 
 # Change Log
 
-## Version 1.1
+  ## Version 1.1
 
 First Deployement of website. Known issues are:
 - Missing Images
@@ -54,7 +54,7 @@ Known bugs:
   - The 3d model does not appear and there is just an empty section on the website
   - Colour palette still subject to change
 
-## Version 1.4
+  ## Version 1.4
 
   - Second Implemntation of 3D Model
   - Colour palette finalised
@@ -62,7 +62,7 @@ Known bugs:
 Known bugs:
   - The 3d model appears on the landing page not in the designated container designed for it, the color of the model is incorrect
 
- ## Version 1.5
+   ## Version 1.5
 
   - Third and final Implemntation of 3D Model Everything is now correctly situated in the designated areas
 
