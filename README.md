@@ -2,7 +2,7 @@
 
 #Links
 Git Repo: https://github.com/s3897845/GreenGrowthTech/tree/main
-                     Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/
+\n Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/
 
 ### How to Run (Github Pages):
 
@@ -17,7 +17,7 @@ Currently running on github pages therefore simply follow this link to view webs
 
 # Change Log
 
-  ## Version 1.1
+## Version 1.1
 
 First Deployement of website. Known issues are:
 - Missing Images
