@@ -1,8 +1,8 @@
 # GreenGrowthTech
 
 #Links
-Git Repo: https://github.com/s3897845/GreenGrowthTech/tree/main
-Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/\
+Git Repo: https://github.com/s3897845/GreenGrowthTech/tree/main \a
+Git Pages (Deplpyed Project): https://s3897845.github.io/GreenGrowthTech/
 
 ### How to Run (Github Pages):
 
